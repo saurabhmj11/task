@@ -1,0 +1,12 @@
+pandas
+numpy<2
+statistics
+openpyxl
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+fpdf
+streamlit 
+altair 
+reportlab

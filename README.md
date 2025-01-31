@@ -125,7 +125,7 @@ Here are some screenshots of the app in action:
 
 Watch the demo video of the app in action here:
 
-[Demo Video](https://youtu.be/examplelink)
+[Demo Video](https://youtu.be/fh5lVQ_ua_4)
 
 ## Conclusion
 
